@@ -2,6 +2,8 @@
 
 I started to collect heuristics after [Rebecca Wirfs-Brock](https://twitter.com/rebeccawb) workshop at DDD Europe 2020. And because I believe that the knowledge belongs to the community, I created this project. Also, most of the heuristics are not mine, and I capture it along the years. 
 
+It can help to design your software, your organisation and everything is between.
+
 ## What is the technique?
 
 I use Rebecca's QHE (Question, Heuristic, Example) technique. You can start with any of the components, the important is to record the information.
