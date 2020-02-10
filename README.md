@@ -19,3 +19,7 @@ You can help in several ways:
 ## License
 
 It is Creative Commons. Yeah, it belongs to us...
+
+## The (long) list
+
+- [Slower is faster](heuristics/slower-is-faster.md)
