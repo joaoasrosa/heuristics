@@ -24,4 +24,5 @@ It is Creative Commons. Yeah, it belongs to us...
 
 ## The (long) list
 
+- [Looking for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-palces.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
