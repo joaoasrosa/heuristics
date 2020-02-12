@@ -24,6 +24,7 @@ It is Creative Commons. Yeah, it belongs to us...
 
 ## The (long) list
 
+- [Annotate ideas for later](heuristics/annotate-ideas-for-later.md)
 - [Do what you preach](heuristics/do-what-you-preah.md)
 - [Looking for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-palces.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
