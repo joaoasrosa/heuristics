@@ -24,6 +24,7 @@ It is Creative Commons. Yeah, it belongs to us...
 
 ## The (long) list
 
+- [Do what you preach](heuristics/do-what-you-preah.md)
 - [Looking for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-palces.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
