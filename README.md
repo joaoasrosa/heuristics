@@ -8,14 +8,14 @@ It can help to design your software, your organisation and everything is between
 
 I use Rebecca's QHE (Question, Heuristic, Example) technique. You can start with any of the components, the important is to record the information.
 
-For this project, I also added the event where the heuristic was capture, the date (not accurate) and the author. I believe that it is essential to give the context about the heuristic.
+For this project, I also added the event where the heuristic was capture, the date (not accurate) and the person that inspired me. I believe that it is essential to give the context about the heuristic.
 
 ## I need your help...
 
 You can help in several ways:
 - Give feedback on [GitHub](https://github.com/joaoasrosa/heuristics/issues) or [Twitter](https://twitter.com/joaoasrosa)
 - Spread the word
-- Correct the data of the heuristic, namely author attribution
+- Correct the data of the heuristic
 - Add your heuristic, I would love to see what the community is doing
 
 ## License
