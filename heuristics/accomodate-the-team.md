@@ -1,14 +1,15 @@
-# Prepare the room before
+# Accomodate the team
 
 ## Question
 How can I have an effective Mob Programming session?
 
 ## Heuristic
-Prepare the room before.
+Accomodate the team.
 
 ## Examples
 - Rules for Mob Programming
 - Information radiators
+- Agenda for the session
 
 ## Context
 ### Inspired by
