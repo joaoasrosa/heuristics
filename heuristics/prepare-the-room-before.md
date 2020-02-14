@@ -11,7 +11,7 @@ Prepare the room before.
 - Information radiators
 
 ## Context
-### Author
+### Inspired by
 [Elisabeth Hocke](https://twitter.com/lisihocke)
 
 ### Where

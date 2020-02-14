@@ -11,7 +11,7 @@ Looking for coupling in unexpected places
 - Chaos Engineering can surface this problems
 
 ## Context
-### Author
+### Inspired by
 [Kent Beck](https://twitter.com/KentBeck)
 
 ### Where

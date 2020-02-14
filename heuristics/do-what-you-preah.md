@@ -11,7 +11,7 @@ Do what you preach.
 - To change a team you need to change yourself
 
 ## Context
-### Author
+### Inspired by
 [Elisabeth Hocke](https://twitter.com/lisihocke)
 
 ### Where

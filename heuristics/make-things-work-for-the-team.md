@@ -11,7 +11,7 @@ Make things work for the team.
 - Partial mob programming
 
 ## Context
-### Author
+### Inspired by
 [Elisabeth Hocke](https://twitter.com/lisihocke)
 
 ### Where

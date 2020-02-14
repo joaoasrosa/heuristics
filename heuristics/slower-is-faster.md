@@ -12,8 +12,8 @@ Slower is faster.
 - In general, going slower in collaborative sessions, help the group to absorb the information
 
 ## Context
-### Author
-[Marijn Huizendveld](https://twitter.com/huizendveld)
+### Inspired by
+[Marijn Huizendveld](https://twitter.com/huizendveld) inspired me. On it turns, he was inspired by [Mathias Verraes](mathiasverraes) ([Link to tweet](https://twitter.com/huizendveld/status/1228003536585228294))
 
 ### Where
 Coolblue, Rotterdam, The Netherlands

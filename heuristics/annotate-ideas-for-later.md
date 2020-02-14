@@ -12,7 +12,7 @@ Annotate ideas for later.
 - Use a visual parking lot
 
 ## Context
-### Author
+### Inspired by
 [Elisabeth Hocke](https://twitter.com/lisihocke)
 
 ### Where

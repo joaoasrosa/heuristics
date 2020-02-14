@@ -12,7 +12,7 @@ When software came to be, it changes itself.
 - Unpredicatable behaviour from users, will change the perception of the software
 
 ## Context
-### Author
+### Inspired by
 [Kent Beck](https://twitter.com/KentBeck)
 
 ### Where
