@@ -28,6 +28,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Annotate ideas for later](heuristics/annotate-ideas-for-later.md)
 - [Consider deployment when do modelling](heuristics/consider-deployment-when-do-modelling.md)
 - [Do what you preach](heuristics/do-what-you-preah.md)
+- [Financial reward good design](heuristics/financial-reward-good-design.md)
 - [Ghost other people](heuristics/ghost-other-people.md)
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
