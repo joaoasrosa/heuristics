@@ -31,6 +31,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Deeper understanding of the language, we understand the outside influences](heuristics/deeper-understanding-of-the-language-we-understand-the-outside-influences.md)
 - [Do what you preach](heuristics/do-what-you-preah.md)
 - [Don't allow the model from one bounded context to propagate](heuristics/dont-allow-the-model-from-one-bounded-context-propagate.md)
+- [Don't distribute objects](heuristics/dont-distribute-objects.md)
 - [Financial reward good design](heuristics/financial-reward-good-design.md)
 - [Ghost other people](heuristics/ghost-other-people.md)
 - [Leverage fine-grain investments](heuristics/leverage-fine-grain-investments.md)
