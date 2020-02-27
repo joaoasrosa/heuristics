@@ -35,6 +35,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Ghost other people](heuristics/ghost-other-people.md)
 - [Leverage fine-grain investments](heuristics/leverage-fine-grain-investments.md)
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
+- [Look for a tech stack that has a good pool of devs](heuristics/look-for-a-tech-stack-that-has-a-good-pool-of-devs.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
 - [Represent concepts in a X/Y axis](heuristics/represent-concepts-in-a-x-y-axis.md)
