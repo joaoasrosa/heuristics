@@ -32,6 +32,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Don't allow the model from one bounded context to propagate](heuristics/dont-allow-the-model-from-one-bounded-context-propagate.md)
 - [Financial reward good design](heuristics/financial-reward-good-design.md)
 - [Ghost other people](heuristics/ghost-other-people.md)
+- [Leverage fine-grain investments](heuristics/leverage-fine-grain-investments.md)
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
