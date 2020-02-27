@@ -37,3 +37,4 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Slower is faster](heuristics/slower-is-faster.md)
 - [The transformation should be linguistic, not technical](heuristics/the-transformation-should-be-linguistic.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
+- [You design it, you build it, you run it](heuristics/you-design-it-you-build-it-you-run-it.md)
