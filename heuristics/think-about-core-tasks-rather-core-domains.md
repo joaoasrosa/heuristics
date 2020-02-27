@@ -1,7 +1,7 @@
 # Think about core-tasks rather than core domains
 
 ## Question
-How shoudl I invest in a business area?
+How should I invest in a business area?
 
 ## Heuristic
 Think about core-tasks rather than core domains.
