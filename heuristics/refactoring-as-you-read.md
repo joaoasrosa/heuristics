@@ -12,7 +12,7 @@ Refactoring as you read.
 
 ## Context
 ### Inspired by
-[Gojko Adzic](https://twitter.com/mathiasverraes)
+[Matthias Verraes](https://twitter.com/mathiasverraes)
 
 ### Where
 [Twitter](https://twitter.com/mathiasverraes/status/1228211542685966339?s=19)
