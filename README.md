@@ -37,6 +37,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
+- [Represent concepts in a X/Y axis](heuristics/represent-concepts-in-a-x-y-axis.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
 - [The transformation should be linguistic, not technical](heuristics/the-transformation-should-be-linguistic.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
