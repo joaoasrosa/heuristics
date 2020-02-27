@@ -43,6 +43,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Represent concepts in a X/Y axis](heuristics/represent-concepts-in-a-x-y-axis.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
 - [The transformation should be linguistic, not technical](heuristics/the-transformation-should-be-linguistic.md)
+- [Think about core-tasks rather than core domains](heuristics/think-about-core-tasks-rather-core-domains.md)
 - [Use security to define boundaries](heuristics/use-security-to-define-boundaries.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
 - [You design it, you build it, you run it](heuristics/you-design-it-you-build-it-you-run-it.md)
