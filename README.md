@@ -33,6 +33,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Do what you preach](heuristics/do-what-you-preah.md)
 - [Don't allow the model from one bounded context to propagate](heuristics/dont-allow-the-model-from-one-bounded-context-propagate.md)
 - [Don't distribute objects](heuristics/dont-distribute-objects.md)
+- [Don't make things more complex than they are](heuristics/dont-make-things-more-complex-than-they-are.md)
 - [Financial reward good design](heuristics/financial-reward-good-design.md)
 - [Ghost other people](heuristics/ghost-other-people.md)
 - [Have orange stickies with you](heuristics/have-orange-stickies-with-you.md)
