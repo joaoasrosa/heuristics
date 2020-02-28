@@ -44,6 +44,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Look for a tech stack that has a good pool of devs](heuristics/look-for-a-tech-stack-that-has-a-good-pool-of-devs.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
+- [Pair to facilitate a modelling session](heuristics/pair-to-facilitate-a-modelling-session.md)
 - [Prefer price based utilisation not invariants](heuristics/prefer-price-based-utilisation-not-invariants.md)
 - [Refactoring as you read](heuristics/refactoring-as-you-read.md)
 - [Represent concepts in a X/Y axis](heuristics/represent-concepts-in-a-x-y-axis.md)
