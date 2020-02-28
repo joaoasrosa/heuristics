@@ -49,6 +49,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Refactoring as you read](heuristics/refactoring-as-you-read.md)
 - [Represent concepts in a X/Y axis](heuristics/represent-concepts-in-a-x-y-axis.md)
 - [Slower is faster](heuristics/slower-is-faster.md)
+- [Take time to discuss concepts](heuristics/take-time-to-discuss-concepts.md)
 - [The cheapest software is the one that doesn't go to production](heuristics/the-cheapest-software-is-the-one-that-doesn't-go-to-production.md)
 - [The transformation should be linguistic, not technical](heuristics/the-transformation-should-be-linguistic.md)
 - [Think about core-tasks rather than core domains](heuristics/think-about-core-tasks-rather-core-domains.md)
