@@ -26,6 +26,7 @@ It is Creative Commons. Yeah, it belongs to us...
 
 - [Accommodate the team](heuristics/accommodate-the-team.md)
 - [Annotate ideas for later](heuristics/annotate-ideas-for-later.md)
+- [Capture examples as you go](heuristics/capture-examples-as-you-go.md)
 - [Consider deployment when do modelling](heuristics/consider-deployment-when-do-modelling.md)
 - [Decentralise the governance model](heuristics/decentralise-the-governance-model.md)
 - [Deeper understanding of the language, we understand the outside influences](heuristics/deeper-understanding-of-the-language-we-understand-the-outside-influences.md)
