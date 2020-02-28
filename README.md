@@ -43,6 +43,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
 - [Look for a tech stack that has a good pool of devs](heuristics/look-for-a-tech-stack-that-has-a-good-pool-of-devs.md)
 - [Look for coupling in unexpected places](heuristics/look-for-coupling-in-unexpected-places.md)
+- [Make implicit, explicit](heuristics/make-implicit-explicit.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
 - [Pair to facilitate a modelling session](heuristics/pair-to-facilitate-a-modelling-session.md)
 - [Prefer price based utilisation not invariants](heuristics/prefer-price-based-utilisation-not-invariants.md)
