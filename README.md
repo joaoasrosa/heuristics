@@ -57,6 +57,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [The cheapest software is the one that doesn't go to production](heuristics/the-cheapest-software-is-the-one-that-doesn't-go-to-production.md)
 - [The transformation should be linguistic, not technical](heuristics/the-transformation-should-be-linguistic.md)
 - [Think about core-tasks rather than core domains](heuristics/think-about-core-tasks-rather-core-domains.md)
+- [Think about data ownership](heuristics/think-about-data-ownership.md)
 - [Use security to define boundaries](heuristics/use-security-to-define-boundaries.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
 - [You design it, you build it, you run it](heuristics/you-design-it-you-build-it-you-run-it.md)
