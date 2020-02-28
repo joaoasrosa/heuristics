@@ -34,6 +34,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Do retrospectives often](heuristics/do-retrospectives-often.md)
 - [Do what you preach](heuristics/do-what-you-preah.md)
 - [Don't allow the model from one bounded context to propagate](heuristics/dont-allow-the-model-from-one-bounded-context-propagate.md)
+- [Don't design for future unknowns](heuristics/dont-design-for-future-unknowns.md)
 - [Don't distribute objects](heuristics/dont-distribute-objects.md)
 - [Don't make things more complex than they are](heuristics/dont-make-things-more-complex-than-they-are.md)
 - [Financial reward good design](heuristics/financial-reward-good-design.md)
