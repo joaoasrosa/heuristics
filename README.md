@@ -37,6 +37,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Financial reward good design](heuristics/financial-reward-good-design.md)
 - [Ghost other people](heuristics/ghost-other-people.md)
 - [Have orange stickies with you](heuristics/have-orange-stickies-with-you.md)
+- [If you don't know, ask](heuristics/if-you-dont-know-ask.md)
 - [If you want to speed up, split up](heuristics/if-you-want-to-speed-up-split-up.md)
 - [Leverage fine-grain investments](heuristics/leverage-fine-grain-investments.md)
 - [Look for a platform that allows customisations](heuristics/look-for-a-platform-that-allows-customisations.md)
