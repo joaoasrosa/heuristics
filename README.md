@@ -31,6 +31,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Consider deployment when do modelling](heuristics/consider-deployment-when-do-modelling.md)
 - [Decentralise the governance model](heuristics/decentralise-the-governance-model.md)
 - [Deeper understanding of the language, we understand the outside influences](heuristics/deeper-understanding-of-the-language-we-understand-the-outside-influences.md)
+- [Do retrospectives often](heuristics/do-retrospectives-often.md)
 - [Do what you preach](heuristics/do-what-you-preah.md)
 - [Don't allow the model from one bounded context to propagate](heuristics/dont-allow-the-model-from-one-bounded-context-propagate.md)
 - [Don't distribute objects](heuristics/dont-distribute-objects.md)
