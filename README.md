@@ -49,6 +49,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Make implicit, explicit](heuristics/make-implicit-explicit.md)
 - [Make things work for the team](heuristics/make-things-work-for-the-team.md)
 - [One command one event, is a smell](heuristics/one-command-one-event-is-a-smell.md)
+- [Online meetins, strict rules, then loosen up a bit](heuristics/online-meetings-strict-rules-then-loosen-up-a-bit.md)
 - [Pair to facilitate a modelling session](heuristics/pair-to-facilitate-a-modelling-session.md)
 - [Prefer price based utilisation not invariants](heuristics/prefer-price-based-utilisation-not-invariants.md)
 - [Refactoring as you read](heuristics/refactoring-as-you-read.md)
