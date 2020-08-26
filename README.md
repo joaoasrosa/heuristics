@@ -24,6 +24,7 @@ It is Creative Commons. Yeah, it belongs to us...
 
 ## The (long) list
 
+- [3C, communicate, communicate, communicate](heuristics/3c.md)
 - [Accommodate the team](heuristics/accommodate-the-team.md)
 - [Annotate ideas for later](heuristics/annotate-ideas-for-later.md)
 - [Be intentional](heuristics/be-intentional.md)
