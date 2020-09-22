@@ -64,5 +64,6 @@ It is Creative Commons. Yeah, it belongs to us...
 - [Think about core-tasks rather than core domains](heuristics/think-about-core-tasks-rather-core-domains.md)
 - [Think about data ownership](heuristics/think-about-data-ownership.md)
 - [Use security to define boundaries](heuristics/use-security-to-define-boundaries.md)
+- [When it gets too crowded in your head, write it down](heuristics/when-it-gets-too-crowded-in-your-head-write-it-down.md)
 - [When software came to be, it changes itself](heuristics/when-software-came-to-be-it-changes-itself.md)
 - [You design it, you build it, you run it](heuristics/you-design-it-you-build-it-you-run-it.md)
