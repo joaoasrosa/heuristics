@@ -27,6 +27,7 @@ It is Creative Commons. Yeah, it belongs to us...
 - [3C, communicate, communicate, communicate](heuristics/3c.md)
 - [Accommodate the team](heuristics/accommodate-the-team.md)
 - [Annotate ideas for later](heuristics/annotate-ideas-for-later.md)
+- [Beyond the meeting room](heuristics/beyond-the-meeting-room.md)
 - [Be intentional](heuristics/be-intentional.md)
 - [Capture examples as you go](heuristics/capture-examples-as-you-go.md)
 - [Change tools to gain new perspectives](heuristics/change-tools-to-gain-new-perspectives.md)
